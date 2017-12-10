@@ -1,1 +1,7 @@
 This ia a new file in git-demo 
+# new lines :
+jgjhg
+ghgfhf
+fgfh
+hffghf
+
