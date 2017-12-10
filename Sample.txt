@@ -1,2 +1,6 @@
 This ia a new file in git-demo 
+This is new lines entered 
+jhgjh
+fhgf
+gfd
 
